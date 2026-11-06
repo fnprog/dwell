@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 300" role="img" aria-labelledby="title">
+  <title id="title">Dwell logo</title>
+  <g fill="none" stroke="#FFB91F" stroke-width="29" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M52 202V108L164 22L276 108V202"/>
+  </g>
+  <path d="M164 91c-34 0-61 27-61 61 0 47 61 117 61 117s61-70 61-117c0-34-27-61-61-61Z M164 136a17 17 0 1 0 0 34a17 17 0 1 0 0-34Z"
+        fill="#FFB91F" fill-rule="evenodd"/>
+  <text x="330" y="211" fill="#F5F1E8"
+        font-family="Inter, Geist, Arial, sans-serif"
+        font-size="190" font-weight="750" letter-spacing="-9">Dwell</text>
+</svg>
